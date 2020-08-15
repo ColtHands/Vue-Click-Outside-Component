@@ -1,0 +1,46 @@
+{
+  "name": "vue-click-outside-component",
+  "version": "1.0.1",
+  "description": "Vue directive for clicking outside component",
+  "main": "./dist/vue-click-outside-component.js",
+  "repository": "https://github.com/ColdHandz/Vue-Click-Outside-Component.git",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@coldhandz"
+  },
+  "keywords": [
+    "vue",
+    "vue directive",
+    "directive",
+    "click outside element",
+    "click outside component",
+    "dom",
+    "vue click",
+    "v-click-outside",
+    "vue-click-outside",
+    "vue click outside",
+    "vue outside",
+    "vue click outside element",
+    "vue click outside component",
+    "vue click hook",
+    "vue hook",
+    "vue click outside hook"
+  ],
+  "scripts": {
+    "dev": "webpack --mode=development",
+    "watch": "webpack --watch --mode=development",
+    "build": "webpack --mode=production"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "terser-webpack-plugin": "^4.1.0",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "yargs": "^15.4.1"
+  }
+}
