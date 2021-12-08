@@ -1,9 +1,9 @@
 {
   "name": "vue-click-outside-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue directive for clicking outside component",
   "main": "./dist/vue-click-outside-component.js",
-  "repository": "https://github.com/ColdHandz/Vue-Click-Outside-Component.git",
+  "repository": "https://github.com/ColtHands/Vue-Click-Outside-Component.git",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@coldhandz"
